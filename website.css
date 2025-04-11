@@ -1,0 +1,76 @@
+.navbar{ 
+    list-style-type: none;
+    background-color: crimson;
+    margin: 0;
+    padding: 0;
+    padding-inline-start: 0px;
+    width: 100%;
+}
+
+.colourbar{
+    background-color: crimson;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+.navbarlist1{
+    display: block; 
+    color: white;
+    padding: 16px;
+    text-align: center;
+    background-color: crimson;
+    font-size: large;
+    font-weight: bold;
+    text-decoration: none;
+}
+.navbarlist2{
+    display: block; 
+    color: crimson;
+    padding: 16px;
+    text-align: center;
+    background-color: white;
+    font-size: large;
+    font-weight: bold;
+    text-decoration: none;
+}
+.logostyle{
+    max-height:40px;
+    width:auto;
+}
+.logo{
+    margin-left: auto;
+}
+.heading1{
+    font-size:96pt;
+    color:black;
+    padding-left: 35px;
+}
+.headingcolour{
+    font-size: 96pt;
+    color: crimson;
+}
+.bigimage{
+    width: 95%;
+    height: auto;
+    margin: 20px auto;
+    border-radius: 15px;
+    overflow: hidden
+}
+
+.colourbar2{
+    background-color: crimson;
+    width: 100%;
+    top: 0;
+    left: 0;
+}
+.nameheading{
+    font-size:96px;
+    color: white;
+    padding-left: 35px;
+}
+.text1{
+    font-size: 36px;
+    color:black;
+    padding-left:35px
+}
