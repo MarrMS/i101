@@ -17,25 +17,35 @@
 .navbarlist1{
     display: block; 
     color: white;
+    padding: 18px;
+    text-align: center;
+    background-color:crimson;
+    font-size: large;
+    font-weight: bold;
+    text-decoration: none;
+}
+.navbarlist1:hover{
+    background-color:white;
+    color:crimson;
+}
+.navbarlist2:hover{
+    background-color:white;
+    color:crimson;
+    border: 2px dashed crimson;
+}
+.navbarlist2{
+    display: block; 
+    color: white;
     padding: 16px;
     text-align: center;
     background-color: crimson;
     font-size: large;
     font-weight: bold;
     text-decoration: none;
-}
-.navbarlist2{
-    display: block; 
-    color: crimson;
-    padding: 16px;
-    text-align: center;
-    background-color: white;
-    font-size: large;
-    font-weight: bold;
-    text-decoration: none;
+    border: 2px dashed white;
 }
 .logostyle{
-    max-height:40px;
+    max-height:63px;
     width:auto;
 }
 .logo{
