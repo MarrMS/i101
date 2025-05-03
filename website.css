@@ -17,7 +17,7 @@
 .navbarlist1{
     display: block; 
     color: white;
-    padding: 18px;
+    padding: 19px;
     text-align: center;
     background-color:crimson;
     font-size: large;
@@ -31,18 +31,17 @@
 .navbarlist2:hover{
     background-color:white;
     color:crimson;
-    border: 2px dashed crimson;
 }
 .navbarlist2{
     display: block; 
     color: white;
-    padding: 16px;
+    padding: 18px;
     text-align: center;
     background-color: crimson;
     font-size: large;
     font-weight: bold;
     text-decoration: none;
-    border: 2px dashed white;
+    border-top: 2px solid white;
 }
 .logostyle{
     max-height:63px;
